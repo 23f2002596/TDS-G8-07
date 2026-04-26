@@ -1,5 +1,6 @@
-import os
-import sys
+def greet():
+    print("hello")
 
-x = 10
-print("hello")
+
+if __name__ == "__main__":
+    greet()
