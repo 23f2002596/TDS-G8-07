@@ -1,4 +1,5 @@
-import os,sys  
+import os
+import sys
 
-x=10  
+x = 10
 print("hello")
